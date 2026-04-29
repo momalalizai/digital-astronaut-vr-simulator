@@ -72,6 +72,7 @@ To address this challenge, the system introduces:
 ## Media
 
 Screenshots and demo videos are available in Wiki page
+https://github.com/momalalizai/digital-astronaut-vr-simulator/wiki
 
 
 
