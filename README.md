@@ -71,8 +71,41 @@ To address this challenge, the system introduces:
 
 ## Media
 
-Screenshots and demo videos are available in Wiki page
-https://github.com/momalalizai/digital-astronaut-vr-simulator/wiki
+
+# Screenshots from Tablet Side:
+
+## Lobby Page 
+
+<img width="1562" height="537" alt="Tabletside_Lobby" src="https://github.com/user-attachments/assets/dcfd6534-e746-40e6-9d38-04ba3a2799f7" />
+
+
+
+## Simulation:
+
+
+<img width="643" height="436" alt="Monitoring Winodws for Guiding Participant" src="https://github.com/user-attachments/assets/69f7de09-e730-4843-becc-9c1ca4bf380a" />
+
+
+## Screenshorts from VR Application: 
+
+
+## VR Lobby: 
+
+
+<img width="1707" height="936" alt="VR_Lobby" src="https://github.com/user-attachments/assets/b3b88404-05fd-4c09-bf08-f2e9cac8a451" />
+
+
+## Actual Mission for Astranout
+
+
+<img width="649" height="443" alt="VR experience" src="https://github.com/user-attachments/assets/a7e7fe2e-c742-4755-a6da-1e0bb80cacca" />
+
+
+
+# Project Complete Demonstration: 
+
+https://www.youtube.com/watch?v=Hb9lGMwxgZo
+
 
 
 
