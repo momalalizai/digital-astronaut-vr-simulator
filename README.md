@@ -42,10 +42,10 @@ To address this challenge, the system introduces:
 
 ## My Contributions
 
-- Unity gameplay development
 - Multiplayer logic integration
+- Audio Integration
+- Multiplayer Voice Integration
 - VR interaction systems
-- Task flow and mission design
 - User experience improvements
 - Performance optimization
 - Testing and iteration
