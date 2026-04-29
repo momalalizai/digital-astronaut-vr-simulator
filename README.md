@@ -71,9 +71,7 @@ To address this challenge, the system introduces:
 
 ## Media
 
-Screenshots and demo videos available below.
+Screenshots and demo videos are available in Wiki page
 
-Screenshots from Tablet Side: 
 
-Screenshorts from VR Application 
 
